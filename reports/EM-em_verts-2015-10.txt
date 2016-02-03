@@ -1,0 +1,128 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Azerbaijan ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-28 ; Times: 6
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "vipera berus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "institutioncode:em" ; Times: 3
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "specificepithet:dufresniana genus:Amazona" ; Times: 3
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "baku" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bucorvus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 823 download events in this period)
+Total number of records downloaded: 597
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: Uganda ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-31 ; Times: 9
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-30 ; Times: 13
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 6
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Panthera leo" ; Times: 4
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "amphiuma means" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "cyanocompsa cyanoides country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
