@@ -1,0 +1,158 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Hungary ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "albania" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 1
+	Query: "Agama colonorum" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "pitiayumi brazil" ; Times: 1
+	Query: "genus:Carpornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "pyriglena atra" ; Times: 4
+	Query: "Caryothraustes canadensis brazil" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "minous inermis" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "58820" ; Times: 1
+	Query: "type:specimen specificepithet:quatuorlineatus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "genus:georychus" ; Times: 1
+	Query: "Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "type:specimen genus:Cacatua order:psittaciformes country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "minous" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 507 download events in this period)
+Total number of records downloaded: 312
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 48
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 14
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 9
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo californicus" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "family:Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
