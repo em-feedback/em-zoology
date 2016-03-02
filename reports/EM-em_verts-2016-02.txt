@@ -1,0 +1,148 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 182
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Madagascar ; Times: 5
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 18
+	Country: Switzerland ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 7
+	Date: 2016-02-11 ; Times: 5
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-18 ; Times: 10
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 9
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "indri" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "penelope jacucaca" ; Times: 1
+	Query: "Callophis" ; Times: 1
+	Query: "specificepithet:maculata genus:COTINGA class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "apus barbatus" ; Times: 2
+	Query: "histurgops" ; Times: 1
+	Query: "Pharomacrus mocinno mocinno" ; Times: 2
+	Query: "gbifdatasetid:15b04450-0c60-11dd-84cd-b8a03c50a862" ; Times: 1
+	Query: "chrysopelea india" ; Times: 8
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "indri indri" ; Times: 3
+	Query: "apogon imberbis" ; Times: 1
+	Query: "Histurgops" ; Times: 1
+	Query: "idiurus" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "type:specimen specificepithet:punicea genus:xipholena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 2
+	Query: "chrysopelea vietnam" ; Times: 7
+	Query: "Dermoptera" ; Times: 1
+	Query: "chrysopelea institutioncode:EM" ; Times: 1
+	Query: "Dolichonyx oryzivorus brazil" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "type:specimen specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "genus:Phibalura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara militaris" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 512 download events in this period)
+Total number of records downloaded: 470
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-18 ; Times: 8
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-19 ; Times: 13
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Delphinidae" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Philodryas" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
