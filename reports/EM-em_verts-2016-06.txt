@@ -1,0 +1,259 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 299
+Number of records retrieved in searches: 2057
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Turkey ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 33
+	Country: United States ; Times: 216
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 167
+	Date: 2016-06-24 ; Times: 8
+	Date: 2016-06-09 ; Times: 13
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 14
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-05 ; Times: 9
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 12
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 9
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 8
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-12 ; Times: 7
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "57529" ; Times: 1
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 48
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 5
+	Query: "Ovis aries" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hippocampus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "polemon" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "querula purpurata" ; Times: 5
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "49731" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "59028" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "eryx jaculus" ; Times: 3
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "type:specimen specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "59026" ; Times: 1
+	Query: "specificepithet:pugnax year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "ramphastidae evolution" ; Times: 2
+	Query: "alces alces   " ; Times: 6
+	Query: "50388" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "morelia viridis" ; Times: 2
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Florisuga fuscus" ; Times: 11
+	Query: "46494" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "eryx jaculus jaculus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 7
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "genus:bison" ; Times: 1
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Varanus indicus " ; Times: 1
+	Query: "specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 7
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "canis lupus   " ; Times: 2
+	Query: "crax rubra" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "polypterus bichir" ; Times: 14
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "Tropiduridae 1" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+	Query: "Centruroides" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 118 (out of 1052 download events in this period)
+Total number of records downloaded: 707
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 70
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 7
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-15 ; Times: 19
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 17
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "Phascolarctos" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Puma concolor" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "Gopherus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "goura" ; Times: 2
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 2
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Canis lupus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "iguana" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
