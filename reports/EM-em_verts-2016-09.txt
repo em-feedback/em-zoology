@@ -1,0 +1,145 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 21
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-21 ; Times: 2
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-09 ; Times: 9
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-07 ; Times: 10
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "corvus corax faroe" ; Times: 1
+	Query: "type:specimen specificepithet:edwardsi genus:Herpestes" ; Times: 2
+	Query: "specificepithet:proboscideus genus:Chaenomugil" ; Times: 1
+	Query: "Cochlearius cochlearius 1" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "Glaucidium minutissimum brazil" ; Times: 2
+	Query: "Salamandrina" ; Times: 2
+	Query: "erythrocercus mccallii" ; Times: 1
+	Query: "Falco sparverius 1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Chlorostilbon aureoventris 1" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Glaucidium passerinum 1" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "specificepithet:russelli genus:vipera" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "type:specimen specificepithet:toco genus:ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "corvus corax europe" ; Times: 1
+	Query: "Bubo scandiaca 1" ; Times: 1
+	Query: "eritrea reptilia" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "type:specimen specificepithet:toco genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:maculirostris genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:coloratus genus:echis" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 2
+	Query: "Calocitta formosa 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "type:specimen specificepithet:vitellinus genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 2
+	Query: "tanysiptera carolinae" ; Times: 2
+	Query: "type:specimen specificepithet:dicolorus genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:Malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Haliaeetus albicilla 1" ; Times: 1
+	Query: "Euplectes progne 1" ; Times: 1
+	Query: "Euplectes axillaris 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 811 download events in this period)
+Total number of records downloaded: 155
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-05 ; Times: 5
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-06 ; Times: 5
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus corax faroe" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Rhinophis" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "pitta sordida" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "corvus corax europe" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Eurystomus gularis" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Phaethornis pretrei" ; Times: 1
+
+
+End of report.
