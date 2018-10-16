@@ -1,0 +1,153 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 315
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 32
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 8
+	Date: 2017-12-23 ; Times: 7
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-04 ; Times: 10
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 21
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "stateprovince:&#34;MARSHALL ISLANDS&#34;" ; Times: 1
+	Query: "Etmopterus spinax mappable:1" ; Times: 1
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 2
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "Trisopterus minutus mappable:1" ; Times: 1
+	Query: "Argentina silus mappable:1" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Raja radula" ; Times: 2
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Liparis montagui mappable:1" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "specificepithet:gryphus genus:Vultur country:&#34;Argentina&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 2
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "Gobius niger mappable:1" ; Times: 1
+	Query: "Mullus dubius" ; Times: 1
+	Query: "sitta azurea" ; Times: 2
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "chile AND zaedyus" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "NRm" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "genus:Rhineura county:&#34;Orange&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Nerophis lumbriciformis mappable:1" ; Times: 1
+	Query: "Pleuronectes platessa mappable:1" ; Times: 1
+	Query: "Enchelyopus cimbrius mappable:1" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "genus:Stilosoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "himantopus novaezelandiae" ; Times: 3
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "4953 Aves" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:EM" ; Times: 2
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "NRM" ; Times: 1
+	Query: "Pollachius pollachius mappable:1" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 3
+	Query: "panthera tigris" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Heliastes chromis" ; Times: 1
+	Query: "Rhynchotus" ; Times: 1
+	Query: "Platichthys flesus mappable:1" ; Times: 1
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "Syngnathus acus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 674 download events in this period)
+Total number of records downloaded: 422
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Dilophus" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "class:Amphibia country:&#34;Angola&#34;" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Malacoptila" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+
+
+End of report.
