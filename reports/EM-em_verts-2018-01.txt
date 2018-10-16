@@ -1,0 +1,289 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 394
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 6
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 32
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 52
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-12 ; Times: 5
+	Date: 2018-01-15 ; Times: 35
+	Date: 2018-01-14 ; Times: 12
+	Date: 2018-01-17 ; Times: 8
+	Date: 2018-01-16 ; Times: 36
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-03 ; Times: 12
+	Date: 2018-01-26 ; Times: 7
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-07 ; Times: 6
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 9
+	Date: 2018-01-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Anhima cornuta vntype:specimen" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Celeus castaneus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:EM" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Platyrinchus cancrominus" ; Times: 1
+	Query: "Chromis notatus notatus" ; Times: 1
+	Query: "Phyllastrephus flavostriatus" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:uria country:&#34;iceland&#34;" ; Times: 2
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Dermoptera Java" ; Times: 2
+	Query: "chlamyphorus truncatus" ; Times: 1
+	Query: "Dascyllus marginatus" ; Times: 2
+	Query: "Calotes Java" ; Times: 3
+	Query: "Bison bonasus bonasus" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Lanius excubitor India" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Pomacentrus trilineatus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "specificepithet:reichenovii genus:Cryptospiza" ; Times: 2
+	Query: "Taraba major" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:parus class:aves" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "dinomys" ; Times: 2
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "Didelphys" ; Times: 1
+	Query: "Pomacentrus leucostictus" ; Times: 2
+	Query: "Panthera leo" ; Times: 3
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "Heliastes chromis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Dascyllus marginatus marginatus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Cossypha heuglini" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Dermoptera" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Crex Crex" ; Times: 4
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "dicrurus fuscipennis" ; Times: 1
+	Query: "Cossypha archeri" ; Times: 6
+	Query: "Trogon massena" ; Times: 1
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "NRM" ; Times: 2
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Aquila pomarina" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "Oxyrhopus petolarius" ; Times: 2
+	Query: "Hapsidophrys lineata" ; Times: 1
+	Query: "Pogonocichla stellata" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "specificepithet:walleri genus:Onychognathus" ; Times: 2
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:EM" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "parisoma boehmi" ; Times: 1
+	Query: "Macaca silenus" ; Times: 2
+	Query: "anhima cornuta" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "Dascyllus arnanus" ; Times: 1
+	Query: "causus resimus" ; Times: 6
+	Query: "Agamia agami" ; Times: 1
+	Query: "Chromis notatus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "specificepithet:melanogaster genus:Ploceus" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "chionis alba" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "dilophus" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 2
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Bison bonasus" ; Times: 3
+	Query: "Oxybelis fulgidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1398 download events in this period)
+Total number of records downloaded: 516
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 14
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 15
+	Date: 2018-01-25 ; Times: 6
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "specificepithet:capensis genus:Zonotrichia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:parus class:aves" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "hylobates lar continent:asia" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
