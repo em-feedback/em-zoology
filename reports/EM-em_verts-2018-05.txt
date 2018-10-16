@@ -1,0 +1,220 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 517
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Belarus ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 55
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 44
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 28
+	Date: 2018-05-05 ; Times: 31
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-16 ; Times: 8
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-23 ; Times: 11
+	Date: 2018-05-24 ; Times: 10
+	Date: 2018-05-25 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rutilans genus:Xenops" ; Times: 1
+	Query: "specificepithet:boissonneautii genus:Pseudocolaptes" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "specificepithet:striaticollis genus:Hemitriccus" ; Times: 1
+	Query: "rhamnophis" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "specificepithet:filicauda genus:Pipra" ; Times: 1
+	Query: "specificepithet:melanonota genus:Pipraeidea" ; Times: 1
+	Query: "rougetius vntype:specimen" ; Times: 2
+	Query: "specificepithet:caudacutus genus:Sclerurus" ; Times: 1
+	Query: "specificepithet:cristatus genus:Oxyruncus" ; Times: 1
+	Query: "vntype:specimen genus:Alectrurus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:EM" ; Times: 3
+	Query: "specificepithet:punicea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:cyanoides genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:pareola genus:Chiroxiphia" ; Times: 1
+	Query: "specificepithet:colonus genus:Colonia" ; Times: 1
+	Query: "specificepithet:tricolor genus:Perissocephalus" ; Times: 1
+	Query: "vntype:specimen genus:alectrurus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Anomalospiza" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "specificepithet:procurvoides genus:Campylorhamphus" ; Times: 1
+	Query: "specificepithet:rufimarginatus genus:Herpsilochmus" ; Times: 1
+	Query: "Liophis typhlus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:EM" ; Times: 3
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "anomalospiza" ; Times: 1
+	Query: "specificepithet:ornatus genus:Cephalopterus" ; Times: 1
+	Query: "cnemidophorus lacertoides" ; Times: 1
+	Query: "specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "specificepithet:pileata genus:Nemosia" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1870 year &lt;= 1879" ; Times: 2
+	Query: "specificepithet:squamiger genus:Margarornis" ; Times: 1
+	Query: "specificepithet:lictor genus:Pitangus" ; Times: 1
+	Query: "vntype:specimen specificepithet:yetapa class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cristatus genus:Tachyphonus" ; Times: 1
+	Query: "vntype:specimen genus:gubernetes class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:nicaraguensis genus:Quiscalus" ; Times: 1
+	Query: "specificepithet:purpurata genus:Querula" ; Times: 1
+	Query: "specificepithet:tanagrinus genus:Lampropsar" ; Times: 1
+	Query: "specificepithet:albicapilla genus:cossypha" ; Times: 1
+	Query: "specificepithet:naevia genus:Sclateria" ; Times: 1
+	Query: "specificepithet:nigricapillus genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:aureola genus:Pipra" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "specificepithet:thoracicus genus:Hylophilus" ; Times: 1
+	Query: "specificepithet:cayanensis genus:Icterus" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "specificepithet:pileatus genus:Coryphospingus" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:rupicola genus:Rupicola" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves year &gt;= 1798 year &lt;= 1885 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albilinea genus:Tachycineta" ; Times: 1
+	Query: "specificepithet:canadensis genus:Caryothraustes" ; Times: 1
+	Query: "specificepithet:saturninus genus:Mimus" ; Times: 1
+	Query: "specificepithet:major genus:Taraba" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "lycophidion laterale" ; Times: 9
+	Query: "specificepithet:yetapa genus:Gubernetes" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:alectrurus class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:alectrurus class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:EM" ; Times: 3
+	Query: "specificepithet:palliatus genus:Thamnophilus" ; Times: 1
+	Query: "Ciconia nigra" ; Times: 1
+	Query: "specificepithet:nitidus genus:Carpodectes" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1860 year &lt;= 1869" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:EM" ; Times: 3
+	Query: "specificepithet:montezuma genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:EM" ; Times: 3
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Coryphospingus" ; Times: 1
+	Query: "Pleurodeles poireti" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Rhynchocyclus" ; Times: 1
+	Query: "specificepithet:scutatus genus:Pyroderus" ; Times: 1
+	Query: "specificepithet:barbatus genus:Myiobius" ; Times: 1
+	Query: "specificepithet:figulus genus:Furnarius" ; Times: 1
+	Query: "specificepithet:cinnamomea genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:EM" ; Times: 3
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:militaris genus:Sturnella" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "specificepithet:cancrominus genus:Platyrinchus" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves" ; Times: 2
+	Query: "specificepithet:cinerea genus:Batara" ; Times: 1
+	Query: "specificepithet:amaurocephalus genus:Leptopogon" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:EM" ; Times: 4
+	Query: "specificepithet:haemorrhous genus:Cacicus" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:EM" ; Times: 3
+	Query: "specificepithet:flaveola genus:Sicalis" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Thamnophilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1178 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 12
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Pleurodeles poireti" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:selasphorus country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:albicapilla genus:cossypha" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
