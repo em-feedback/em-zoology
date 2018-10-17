@@ -1,0 +1,157 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: Austria ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 55
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-20 ; Times: 16
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-08 ; Times: 3
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cryptobranchus alleghaniensis" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "49597" ; Times: 1
+	Query: "genus:lepilemur" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "specificepithet:philippensis genus:Petaurista" ; Times: 2
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "specificepithet:igniventris genus:Sciurus" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Phycis mediterraneus" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "Semioptera" ; Times: 2
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "specificepithet:microphthalmus genus:Spalax" ; Times: 2
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 13
+	Query: "specificepithet:major genus:Spermophilus" ; Times: 2
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 2
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:EM" ; Times: 1
+	Query: "Heliangelus Em" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "specificepithet:derbianus genus:Anomalurus" ; Times: 8
+	Query: "desmana moschata" ; Times: 1
+	Query: "gallinago undulata" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Eurynorhynchus" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 2
+	Query: "specificepithet:macrotis genus:Idiurus" ; Times: 4
+	Query: "genus:Moschus" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "Florida stilosoma" ; Times: 1
+	Query: "specificepithet:pelii genus:Anomalurus" ; Times: 7
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "specificepithet:nicaraguensis genus:quiscalus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanopogon genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 846 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cryptobranchus alleghaniensis" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "genus:mabuya continent:South America" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "MONOPELTIS" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+
+End of report.
