@@ -1,0 +1,166 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 195
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 38
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 34
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-09 ; Times: 6
+	Date: 2018-06-22 ; Times: 15
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 1
+	Query: "cheirogaleus medius" ; Times: 5
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "genus:Lemur" ; Times: 1
+	Query: "Hepatus fuliginosus" ; Times: 1
+	Query: "sorex minutissimus" ; Times: 5
+	Query: "Pleurodeles poireti" ; Times: 1
+	Query: "genus:euphractus" ; Times: 1
+	Query: "Hippocamelus" ; Times: 1
+	Query: "Cheirogaleus" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus" ; Times: 1
+	Query: "Aspis" ; Times: 1
+	Query: "genus:Threskiornis family:Threskiornithidae continent:Africa" ; Times: 1
+	Query: "genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "Prionurus scalprum" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:EM" ; Times: 1
+	Query: "Calotes cristatellus" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "Crax rubra" ; Times: 2
+	Query: "Naso unicornis" ; Times: 2
+	Query: "49503" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Anomalurus beecrofti" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "himantopus novaezelandiae" ; Times: 4
+	Query: "cryptobranchus woodcock" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "macronyx sharpei" ; Times: 1
+	Query: "vntype:specimen genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "Greenland specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 37
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 3
+	Query: "family:Chamaeleonidae institutioncode:EM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1169 download events in this period)
+Total number of records downloaded: 270
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
