@@ -1,0 +1,201 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Peru ; Times: 56
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 60
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "diani" ; Times: 1
+	Query: "Didunculus strigirostris" ; Times: 1
+	Query: "gbifdatasetid:15b04450-0c60-11dd-84cd-b8a03c50a862" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1850 year &lt;= 1859" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Penelope jacquacu" ; Times: 2
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1843 year &lt;= 1843" ; Times: 1
+	Query: "centruroides" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "vultur gryphus" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "vntype:specimen genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "Corvus corone 100" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "pyrrhura leucotis" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "vntype:specimen genus:MUSCIPIPRA class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "vultur" ; Times: 3
+	Query: "Lesbia nuna" ; Times: 2
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Florisuga mellivora" ; Times: 2
+	Query: "genus:cnemotriccus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Odontophorus gujanensis" ; Times: 2
+	Query: "specificepithet:cherrug genus:Falco" ; Times: 2
+	Query: "Discosura popelairii" ; Times: 2
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Australia specificepithet:sordidus class:Aves" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "vntype:specimen specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "specificepithet:aterrimus genus:Knipolegus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Numenius phaeopus new guinea" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "Calomyscus bailwardi" ; Times: 2
+	Query: "E.M. Cornwall" ; Times: 2
+	Query: "Chlorostilbon poortmani" ; Times: 2
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "genus:anomalurus" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 2
+	Query: "49649-1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 977 download events in this period)
+Total number of records downloaded: 174
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "insecta" ; Times: 1
+	Query: "centruroides" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:cnemotriccus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Caloenas" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 2
+	Query: "Hemidactylus platyurus" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+
+
+End of report.
