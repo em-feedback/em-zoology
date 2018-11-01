@@ -1,0 +1,272 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 258
+Number of records retrieved in searches: 721
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 220
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 15
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-03 ; Times: 28
+	Date: 2018-10-04 ; Times: 61
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-01 ; Times: 32
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 32
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 19
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 41
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "rana catesbiana" ; Times: 1
+	Query: "Decapoda" ; Times: 2
+	Query: "Syngnathus kaupi" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Hippocampus sindonis" ; Times: 1
+	Query: "specificepithet:bailwardi genus:Calomyscus" ; Times: 1
+	Query: "Nerophis ophidion mappable:1" ; Times: 1
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Ostracion triqueter" ; Times: 2
+	Query: "Hirundo aethiopica" ; Times: 4
+	Query: "Balistes aculeatus" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 8
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "specificepithet:major genus:Spermophilus" ; Times: 1
+	Query: "Ostracion cornutus" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 8
+	Query: "Hippocampus longirostris" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "specificepithet:myospalax genus:Myospalax" ; Times: 1
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "specificepithet:talpinus genus:Ellobius" ; Times: 8
+	Query: "sphyrna tudes" ; Times: 1
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "Siphonostoma typhle mappable:1" ; Times: 1
+	Query: "Syngnathus serratus" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 8
+	Query: "specificepithet:pelii genus:Anomalurus" ; Times: 9
+	Query: "specificepithet:capensis genus:Pedetes" ; Times: 1
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 8
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:EM" ; Times: 1
+	Query: "Apus barbatus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Idiurus" ; Times: 8
+	Query: "specificepithet:derbianus genus:Anomalurus" ; Times: 10
+	Query: "Tinamus tao" ; Times: 14
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Syngnathus bucculentus" ; Times: 1
+	Query: "institutioncode:EM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phycis mediterraneus" ; Times: 1
+	Query: "Syngnathus agassizii" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "Syngnathus brevirostris" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 2
+	Query: "specificepithet:major genus:Allactaga" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 2
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 2
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Syngnathus acus mappable:1" ; Times: 1
+	Query: "genus:Echinosorex" ; Times: 1
+	Query: "Syngnathus typhle typhle mappable:1" ; Times: 1
+	Query: "specificepithet:betulina genus:Sicista" ; Times: 1
+	Query: "Hippocampus antiquorum" ; Times: 1
+	Query: "specificepithet:philippensis genus:Petaurista" ; Times: 8
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 1
+	Query: "Pyrrhura molinae" ; Times: 3
+	Query: "Semioptera" ; Times: 1
+	Query: "Callionymus sagitta" ; Times: 2
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:africanus genus:Atherurus" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Siphonostoma typhle" ; Times: 1
+	Query: "specificepithet:marmota genus:Marmota" ; Times: 1
+	Query: "Balistes buniva" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 10
+	Query: "Stilosoma Florida" ; Times: 1
+	Query: "specificepithet:pyrropus genus:Funisciurus" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Nerophis lumbriciformis mappable:1" ; Times: 1
+	Query: "specificepithet:acuticaudata genus:aratinga" ; Times: 1
+	Query: "specificepithet:igniventris genus:Sciurus" ; Times: 8
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:EM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hippocampus mohnikei" ; Times: 3
+	Query: "specificepithet:gundi genus:Ctenodactylus" ; Times: 2
+	Query: "specificepithet:microphthalmus genus:Spalax" ; Times: 8
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "Callionymus belenus" ; Times: 1
+	Query: "order:Lepidoptera " ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 8
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "Callionymus opercularis" ; Times: 1
+	Query: "specificepithet:leucogenys genus:Funisciurus" ; Times: 4
+	Query: "Bitis arietans country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Pomatomus saltatrix Chesapeake Bay" ; Times: 2
+	Query: "specificepithet:volans genus:Pteromys" ; Times: 1
+	Query: "Ostracion quadricornis" ; Times: 5
+	Query: "malacoptila fusca" ; Times: 4
+	Query: "specificepithet:thomasi genus:Aeromys" ; Times: 4
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "NRM" ; Times: 1
+	Query: "specificepithet:viscacia genus:Lagidium" ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1300 download events in this period)
+Total number of records downloaded: 613
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 5
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 11
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 4
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "genus:Crotaphopeltis" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Monopeltis capensis" ; Times: 1
+	Query: "specificepithet:gambensis genus:Dryoscopus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus" ; Times: 2
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:EM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "pseudemys floridana" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "Bitis arietans country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Petaurus australis" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
