@@ -1,0 +1,268 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 345
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 52
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 21
+	Country: Portugal ; Times: 4
+	Country: Unknown ; Times: 14
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 23
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 8
+	Date: 2018-11-06 ; Times: 8
+	Date: 2018-11-05 ; Times: 9
+	Date: 2018-11-04 ; Times: 9
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-23 ; Times: 8
+	Date: 2018-11-22 ; Times: 2
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 4
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-12 ; Times: 8
+	Date: 2018-11-13 ; Times: 8
+	Date: 2018-11-14 ; Times: 6
+	Date: 2018-11-15 ; Times: 3
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "Cynoglossus melanopterus" ; Times: 4
+	Query: "Chamaesaura anguina" ; Times: 1
+	Query: "vntype:specimen specificepithet:genibarbis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Tinamus tao" ; Times: 3
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Coryphaenoides rupestris mappable:1" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Argentina silus mappable:1" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 8
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 4
+	Query: "institutioncode:em" ; Times: 1
+	Query: "Eurynorhynchus pygmaeus" ; Times: 6
+	Query: "bombina variegata" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "hippocampus mohnikei" ; Times: 1
+	Query: "institutioncode:em peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:chromis genus:chromis" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "specificepithet:pollachius genus:pollachius mappable:1" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 21
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "class:Aves catalognumber:5669 institutioncode:EM" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 4
+	Query: "catalognumber:59266" ; Times: 1
+	Query: "specificepithet:humilis genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "tarsiidae" ; Times: 2
+	Query: "Dinomys branickii" ; Times: 1
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "Meles meles" ; Times: 2
+	Query: "Eulemur macaco" ; Times: 1
+	Query: "alopochen" ; Times: 2
+	Query: "Agonus cataphractus mappable:1" ; Times: 1
+	Query: "Eupleridae" ; Times: 4
+	Query: "mustela lutreola" ; Times: 6
+	Query: "Chimaera monstrosa mappable:1" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "Enchelyopus cimbrius mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 162 (out of 1719 download events in this period)
+Total number of records downloaded: 623
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: United States ; Times: 47
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 71
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-09 ; Times: 5
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 12
+	Date: 2018-11-06 ; Times: 14
+	Date: 2018-11-05 ; Times: 21
+	Date: 2018-11-13 ; Times: 8
+	Date: 2018-11-03 ; Times: 2
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-15 ; Times: 34
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 6
+	Date: 2018-11-26 ; Times: 10
+	Date: 2018-11-14 ; Times: 13
+	Date: 2018-11-11 ; Times: 6
+	Date: 2018-11-12 ; Times: 13
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Potos flavus" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "specificepithet:couesi genus:Oryzomys" ; Times: 1
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "tamandua tetradactyla" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "genus:Sylvilagus brasiliensis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "genus:Noctilio leporinus" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "institutioncode:em peromyscus maniculatus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Sorex minutus" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "specificepithet:variegata genus:bombina" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "meles meles" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "genus:Alouatta palliata" ; Times: 3
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "bradypus tridactylus" ; Times: 5
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Gonocephalus dilophus" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "choloepus didactylus" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Eupleridae" ; Times: 1
+	Query: "genus:Marmosa mexicana" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "genus:Oryzomys couesi" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:Cyclopes didactylus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 2
+	Query: "family:Viperidae" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "genus:Dasyprocta punctata" ; Times: 2
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 2
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "dasyprocta leporina" ; Times: 1
+	Query: "genus:Leopardus pardalis" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "genus:Molossus molossus" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "genus:Ateles geoffroyi" ; Times: 2
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "specificepithet:ecaudatus genus:Tenrec" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "genus:Pteronotus davyi" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "genus:Puma" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "Anodorhynchus leari" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
