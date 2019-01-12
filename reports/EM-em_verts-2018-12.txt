@@ -1,0 +1,229 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 345
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 67
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 33
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 16
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 10
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-19 ; Times: 13
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-26 ; Times: 6
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-17 ; Times: 34
+	Date: 2018-12-05 ; Times: 6
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "eulabeornis" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 2
+	Query: "Hippocampus sindonis" ; Times: 2
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "Pollachius pollachius mappable:1" ; Times: 4
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Nerophis ophidion mappable:1" ; Times: 2
+	Query: "Syngnathus typhle" ; Times: 3
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "Hippocampus mohnikei" ; Times: 1
+	Query: "Trisopterus minutus mappable:1" ; Times: 2
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Callionymus sagitta" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Liparis montagui mappable:1" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "Corvus corone 100" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 6
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "Callionymus maculatus" ; Times: 1
+	Query: "eulabeornis vntype:specimen" ; Times: 3
+	Query: "Nerophis lumbriciformis mappable:1" ; Times: 2
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Platichthys flesus mappable:1" ; Times: 4
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "aplonis panayensis country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:medius genus:Picoides" ; Times: 1
+	Query: "rougetius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Prionodon" ; Times: 2
+	Query: "specificepithet:pollachius genus:pollachius mappable:1" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 1
+	Query: "Macroramphosus gracilis" ; Times: 1
+	Query: "Pleuronectes platessa mappable:1" ; Times: 5
+	Query: "specificepithet:gundi genus:Ctenodactylus" ; Times: 1
+	Query: "sciurus igniventris" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "salamandrina" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Syngnathus acus mappable:1" ; Times: 3
+	Query: "aplonis panayensis country:indonesia" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+	Query: "Channa asiatica" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 1
+	Query: "Aplonis Bougainville" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "anodorhynchus leari" ; Times: 2
+	Query: "Nesofregetta vntype:specimen" ; Times: 4
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Syngnathus typhle mappable:1" ; Times: 4
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Lumpenus lampretaeformis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 809 download events in this period)
+Total number of records downloaded: 715
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: India ; Times: 18
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-09 ; Times: 10
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 9
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "order:Chiroptera class:Mammalia country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Chiroptera Cameroon" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Megophryidae" ; Times: 2
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+
+
+End of report.
