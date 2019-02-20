@@ -1,0 +1,234 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 37
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 58
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 7
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-31 ; Times: 16
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 15
+	Date: 2019-01-12 ; Times: 7
+	Date: 2019-01-13 ; Times: 10
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-05 ; Times: 5
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 10
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Didunculus" ; Times: 2
+	Query: "Nerophis ophidion mappable:1" ; Times: 2
+	Query: "Causus resimus" ; Times: 1
+	Query: "Theristicus melanopis" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "Vernalis wisconsin" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "specificepithet:minutissimum genus:Glaucidium class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tinamus tao" ; Times: 2
+	Query: "papio hamadryas" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Pulsatrix melanota" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Penelope jacquacu" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "apteryx owenii" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "Campylorhamphus procurvoides" ; Times: 1
+	Query: "Gallinula melanops" ; Times: 1
+	Query: "Piculus flavigula" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "Ibycter americanus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "lacertoides" ; Times: 1
+	Query: "Mesembrinibis cayennensis" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "owenii" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:EM" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "dermoptera" ; Times: 10
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "vntype:specimen family:Paridae class:Aves country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "centruroides" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Indonesia Chalcophaps" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "58523" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 3
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Circus cinereus" ; Times: 1
+	Query: "specificepithet:philippensis genus:petaurista" ; Times: 1
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "Sclateria naevia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 128 (out of 962 download events in this period)
+Total number of records downloaded: 451
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 105
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: China ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-30 ; Times: 17
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 11
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-31 ; Times: 24
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "marmosa" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "specificepithet:syndactyla genus:bleda" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
