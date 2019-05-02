@@ -1,0 +1,229 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 73
+	Country: Germany ; Times: 2
+	Country: Taiwan ; Times: 3
+	Country: United States ; Times: 40
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 7
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-20 ; Times: 5
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-14 ; Times: 25
+	Date: 2019-03-15 ; Times: 59
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-29 ; Times: 7
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:svecica genus:Luscinia class:Aves year &lt;= 1853" ; Times: 1
+	Query: "abramis brama" ; Times: 5
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Psammophis biseriatus" ; Times: 1
+	Query: "Causus resimus" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "specificepithet:aurita genus:Didelphis" ; Times: 1
+	Query: "Lycophidion laterale" ; Times: 1
+	Query: "Morelia viridis" ; Times: 1
+	Query: "Philydor albigularis" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 4
+	Query: "Calliophis maculiceps" ; Times: 1
+	Query: "Lycodon aulicus" ; Times: 1
+	Query: "Pteropus pselaphon" ; Times: 11
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Philodryas olfersii" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Polemon collaris" ; Times: 1
+	Query: "Cossypha albicapilla" ; Times: 3
+	Query: "genus:Salamandrina" ; Times: 1
+	Query: "aquila clanga" ; Times: 2
+	Query: "strigops" ; Times: 1
+	Query: "Bitis gabonica CM" ; Times: 1
+	Query: "Anarhichas minor" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "genus:siren institutioncode:EM" ; Times: 1
+	Query: "Lytorhynchus diadema" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Hapsidophrys smaragdina" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Didunculus strigirostris" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Eirenis coronella" ; Times: 1
+	Query: "class:reptilia country:&#34;eritrea&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 4
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Chrysopelea ornata" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "Eirenis collaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;egypt&#34;" ; Times: 1
+	Query: "Thelotornis kirtlandii" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Macropisthodon plumbicolor" ; Times: 1
+	Query: "Centruroides Florida" ; Times: 1
+	Query: "cossypha albicapilla" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Cotinga maculata" ; Times: 2
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "potamogale" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "Elapognathus minor" ; Times: 1
+	Query: "Echis coloratus" ; Times: 1
+	Query: "Helicops leopardinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis institutioncode:EM" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Stegonotus modestus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Philothamnus semivariegatus" ; Times: 1
+	Query: "specificepithet:oenanthe genus:Oenanthe class:Aves year &gt;= 1800 year &lt;= 1855" ; Times: 1
+	Query: "vntype:specimen specificepithet:chii genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:grus genus:grus" ; Times: 1
+	Query: "Simophis rhinostoma" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "vntype:specimen genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Thrasops flavigularis" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Homalopsis buccata" ; Times: 1
+	Query: "Psammophis elegans" ; Times: 1
+	Query: "Agamia agami" ; Times: 2
+	Query: "genus:Anthoscopus class:Aves country:&#34;Namibia&#34; continent:Africa" ; Times: 1
+	Query: "Muraena helena" ; Times: 3
+	Query: "Xenodon severus" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Atherina hepsetus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1281 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 29
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Eriocnemis derbyi" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "lycophidion" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Trichoglossus ornatus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "genus:Anthoscopus class:Aves country:&#34;Namibia&#34; continent:Africa" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+
+
+End of report.
