@@ -1,0 +1,200 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Panama ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Vietnam ; Times: 1
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 53
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 5
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 23
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 8
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:EM" ; Times: 5
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "Fossa fossana" ; Times: 2
+	Query: "vntype:specimen genus:Dolichonyx class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Calidris canutus" ; Times: 15
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "&#34;Microstomus kitt&#34;" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "vntype:specimen genus:Pipraeidea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 4
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:EM" ; Times: 5
+	Query: "Apteryx" ; Times: 1
+	Query: "genus:salpornis" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus institutioncode:EM" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 6
+	Query: "Anilius scytale" ; Times: 1
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Galidia elegans" ; Times: 2
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Zoological Museum Hamburg" ; Times: 1
+	Query: "Myrmecocichla aethiops vntype:specimen" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "nivalis mustela" ; Times: 2
+	Query: "nesofregetta fuliginosa" ; Times: 1
+	Query: "palumbus Columba" ; Times: 4
+	Query: "45812" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "Nesomys rufus" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "salpornis spilonotus" ; Times: 1
+	Query: "specificepithet:lyra genus:trigla" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1073 download events in this period)
+Total number of records downloaded: 162
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 31
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 23
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 2
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "vntype:specimen order:chiroptera country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "order:Rodentia country:&#34;Brazil&#34; (Amazonas OR Pará OR Para OR Acre OR Roraima OR Rondonia OR Rondônia OR Amapá OR Amapa)" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
