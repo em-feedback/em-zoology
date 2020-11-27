@@ -1,0 +1,133 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Netherlands ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-16 ; Times: 5
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "58113" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "vntype:specimen family:Anatidae class:Aves locality:Greenland" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "vntype:specimen family:ACCIPITRIDAE country:&#34;PERU&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Carpodectes nitidus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "class:aves locality:moyobamba" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 2
+	Query: "58319" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Halcyon class:Aves country:&#34;Kenya&#34; continent:Africa" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Greenland" ; Times: 1
+	Query: "(Sarcoramphus papa) year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 596 download events in this period)
+Total number of records downloaded: 101
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 15
+	Country: Paraguay ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
