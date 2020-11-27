@@ -1,0 +1,167 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-15 ; Times: 4
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Vipera aspis" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "specificepithet:squamatus genus:lepidocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Lepilemur" ; Times: 1
+	Query: "class:Amphibia country:&#34;Algeria&#34;" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "stilosoma" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 3
+	Query: "48344" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "Halcyon Aru" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 2
+	Query: "chondropython viridis" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1106 download events in this period)
+Total number of records downloaded: 640
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-01 ; Times: 5
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "family:mustelidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
