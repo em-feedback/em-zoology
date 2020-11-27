@@ -1,0 +1,221 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 372
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 102
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Sweden ; Times: 3
+	Country: Japan ; Times: 4
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 11
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-03 ; Times: 20
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-01 ; Times: 25
+	Date: 2020-02-06 ; Times: 10
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 12
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:EM" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:EM" ; Times: 1
+	Query: "Solea ovata" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "fulmarus arctic" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "astrapia nigra" ; Times: 2
+	Query: "specificepithet:truncatus genus:chlamyphorus" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:EM" ; Times: 1
+	Query: "vipera aspis" ; Times: 4
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:EM" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:EM" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 1
+	Query: "pelecanoides urinatrix chile" ; Times: 1
+	Query: "epimachus fastuosus" ; Times: 1
+	Query: "Potamogale velox" ; Times: 1
+	Query: "(dermoptera java)" ; Times: 5
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "dermoptera (java)" ; Times: 2
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "Gallus varius" ; Times: 2
+	Query: "fulmarus glacialis arctic" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Grammonus" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "rhinogobius" ; Times: 2
+	Query: "(dermoptera sunda)" ; Times: 3
+	Query: "(Dermoptera variegatus)" ; Times: 2
+	Query: "Pharomacrus mocinno" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:EM" ; Times: 1
+	Query: "(dermoptera)" ; Times: 3
+	Query: "cystophora" ; Times: 1
+	Query: "order:dermoptera" ; Times: 2
+	Query: "fulmarus svalbard" ; Times: 1
+	Query: "pelecanoides urinatrix magellan" ; Times: 1
+	Query: "Dermoptera" ; Times: 19
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "Java vntype:specimen order:dermoptera" ; Times: 1
+	Query: "Coregonus albula" ; Times: 1
+	Query: "pelecanoides urinatrix south america" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "fulmarus glacialis svalbard" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 3
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:EM" ; Times: 1
+	Query: "Java order:dermoptera" ; Times: 1
+	Query: "dermoptera java" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:EM" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "Raja radula" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 133 (out of 1023 download events in this period)
+Total number of records downloaded: 996
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 96
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 6
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 17
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 5
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-06 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "(dermoptera java)" ; Times: 3
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "echis coloratus" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Anniellidae" ; Times: 2
+	Query: "(dermoptera)" ; Times: 5
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Dermoptera" ; Times: 26
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "riparia paludicola" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+
+
+End of report.
