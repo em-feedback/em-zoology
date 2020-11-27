@@ -1,0 +1,177 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 12
+	Country: Chile ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 23
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 4
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 11
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "specificepithet:skua genus:Catharacta" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "cnidaria" ; Times: 1
+	Query: "genus:eremomela country:&#34;kenya&#34;" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "nectarinia violacea" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullata genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:coypus country:&#34;chile&#34;" ; Times: 3
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttata genus:Cichladusa year &gt;= 1940 year &lt;= 2000" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Microtus ochrogaster 2016" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 2
+	Query: "Geomys bursarius 2016" ; Times: 1
+	Query: "Alburnus chalcoides" ; Times: 1
+	Query: "genus:varanus country:&#34;egypt&#34;" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 1
+	Query: "Cichladusa guttata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "arborea Hyla" ; Times: 4
+	Query: "Torpedo marmorata" ; Times: 2
+	Query: "Triakis scyllium" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania country:&#34;brazil&#34;" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "vntype:specimen genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Raja radula" ; Times: 2
+	Query: "Ciona intestinalis" ; Times: 2
+	Query: "Heterodontus japonicus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1308 download events in this period)
+Total number of records downloaded: 167
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 18
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Tapera naevia" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "puma concolor" ; Times: 10
+	Query: "genus:Gobius" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "amethystina" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "sphaerodactylus argus" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
