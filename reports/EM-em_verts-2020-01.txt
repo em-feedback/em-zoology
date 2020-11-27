@@ -1,0 +1,230 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 775
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 81
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Sweden ; Times: 2
+	Country: Latvia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 7
+	Country: South Korea ; Times: 2
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 12
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-23 ; Times: 25
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-31 ; Times: 12
+	Date: 2020-01-22 ; Times: 12
+	Date: 2020-01-30 ; Times: 9
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-26 ; Times: 5
+	Date: 2020-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:EM" ; Times: 7
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "order:Dermoptera country:&#34;Indonesia&#34; (Dermoptera)" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "&#34;Chrysospalax trevelyani&#34;" ; Times: 2
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:EM" ; Times: 4
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:nigromaculata genus:Rana" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:arvalis genus:Rana" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "specificepithet:gigas genus:Patagona country:&#34;Argentina&#34;" ; Times: 2
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:EM" ; Times: 5
+	Query: "specificepithet:pictus genus:Discoglossus" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "Herpetodryas" ; Times: 1
+	Query: "specificepithet:ridibunda genus:Rana" ; Times: 1
+	Query: "dermoptera" ; Times: 12
+	Query: "institutioncode:em" ; Times: 1
+	Query: "temporaria Rana" ; Times: 4
+	Query: "specificepithet:mauritanicus genus:Bufo" ; Times: 1
+	Query: "family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Eurynorhynchus pygmaeus" ; Times: 1
+	Query: "specificepithet:gracilis genus:Rana" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "Ptyodactylus hasselquisti" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "specificepithet:variegata genus:Bombina" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:EM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 1
+	Query: "specificepithet:pectoralis genus:coracina country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:lessonae genus:Rana" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "calamita Bufo" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Menidia menidia" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "specificepithet:esculenta genus:Rana" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 1
+	Query: "Erythrocercus mccallii vntype:specimen" ; Times: 1
+	Query: "Castor fiber" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:EM basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Gymnocephalus cernua" ; Times: 2
+	Query: "specificepithet:biporcatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:principalis genus:anolis" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:EM" ; Times: 4
+	Query: "Silurus glanis" ; Times: 3
+	Query: "Erythrocercus mccallii" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "institutioncode:em Poicephalus" ; Times: 2
+	Query: "family:Cynocephalidae order:Dermoptera country:&#34;Indonesia&#34; (Dermoptera)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 1584 download events in this period)
+Total number of records downloaded: 319
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 59
+	Country: Latvia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 11
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 12
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 13
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-31 ; Times: 16
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Eremias velox" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eremias arguta" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Hemidactylus platyurus" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Sphaerodactylus argus" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "Castor fiber" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "Gekko japonicus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+
+
+End of report.
