@@ -1,0 +1,165 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 210
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Denmark ; Times: 59
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 4
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-15 ; Times: 20
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 8
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-03 ; Times: 34
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "drepanornis" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "etmopterus spinax" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "vntype:specimen specificepithet:ornata genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Clethrionomys rufocanus" ; Times: 2
+	Query: "Anodorhynchus leari" ; Times: 3
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "Onychogalea fraenata" ; Times: 3
+	Query: "Elephas maximus" ; Times: 4
+	Query: "vntype:specimen genus:Nemosia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Orange&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scincicauda genus:gerrhonotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sciurus igniventris" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Orange&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dasypus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Aspius aspius" ; Times: 1
+	Query: "Ratufa macroura" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Heliangelus mavors vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alburnus chalcoides" ; Times: 1
+	Query: "Propithecus verreauxi" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Heliangelus mavors vntype:specimen" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 3
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "pelecanoides urinatrix chile" ; Times: 1
+	Query: "class:aves locality:uraguess" ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Petaurus australis" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "heliangelus mavors vntype:specimen country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1367 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 14
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lemniscatus genus:Liolaemus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis grahami" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "etmopterus" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Anolis pulchellus" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
