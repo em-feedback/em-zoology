@@ -1,0 +1,262 @@
+Report for Institution Code EM, Resource em_verts
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 762
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 52
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 40
+	Country: United Kingdom ; Times: 73
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Japan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 9
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-12 ; Times: 8
+	Date: 2020-08-11 ; Times: 10
+	Date: 2020-08-10 ; Times: 10
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 21
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-08 ; Times: 5
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-07 ; Times: 18
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-21 ; Times: 73
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:EM" ; Times: 5
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Miopithecus talapoin" ; Times: 1
+	Query: "vntype:specimen genus:cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vanellus resplendens" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:EM" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "Sciurus igniventris" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Isichthys henryi" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 3
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Spicara smaris" ; Times: 1
+	Query: "genus:Augastes" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "Eutrigla gurnardus" ; Times: 2
+	Query: "specificepithet:mavors genus:Heliangelus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 5
+	Query: "Micralestes acutidens" ; Times: 1
+	Query: "Aulichthys japonicus" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Corvus corone 100" ; Times: 1
+	Query: "Nannaethiops unitaeniatus" ; Times: 1
+	Query: "L. canus" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "specificepithet:jourdani genus:Chaetocercus" ; Times: 2
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "specificepithet:bonapartei genus:Coeligena" ; Times: 2
+	Query: "specificepithet:delattrei genus:Lophornis" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Spicara maena" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "specificepithet:gibsoni genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Tinca tinca" ; Times: 1
+	Query: "nerophis" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:EM" ; Times: 1
+	Query: "genus:Stephanoxis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoides genus:Cyanocompsa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Philodryas elegans peru" ; Times: 1
+	Query: "munchen" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Turdus pelios" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "specificepithet:tobaci genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Cercopithecus mitis" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Prinia bairdii" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:julie genus:Damophila country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:ruficauda genus:Histurgops" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "specificepithet:gouldii genus:Lophornis" ; Times: 1
+	Query: "Hirundo angolensis" ; Times: 1
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Goura" ; Times: 2
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Phyllastrephus icterinus" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "recordedby:eriksson" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:EM" ; Times: 5
+	Query: "Passer suahelicus" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "specificepithet:nuna genus:Lesbia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 1
+	Query: "Merlangius merlangus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 756 download events in this period)
+Total number of records downloaded: 589
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 37
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "coronella girondica" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "gadus morhua" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "fossa" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
